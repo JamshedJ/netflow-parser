@@ -1,0 +1,11 @@
+{
+  "threads_count": 8,
+  "database": {
+	"username": "netflow",
+	"password": "netflow",
+	"host": "localhost",
+	"port": "3306",
+	"db_name": "netflow",
+	"insert_batch_size": 1000
+  }
+}
